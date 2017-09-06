@@ -107,3 +107,5 @@ Send me more features if you want it :D
 ## License:
 
 This project is licensed under the BSD-3-Clause - see the [LICENSE](LICENSE) file for details.
+
+[![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/marrocamp/BeeLogger) [![DUB](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/marrocamp/BeeLogger)
